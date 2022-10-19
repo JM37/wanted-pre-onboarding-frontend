@@ -62,4 +62,4 @@ $ npm start
 
 ###데모 영상
 
-<img width="90%" src="https://user-images.githubusercontent.com/63234832/196604636-a4ff551c-c6e1-430d-a01d-2e02546a9f47.gif"/>
+<img width="100%" src="https://user-images.githubusercontent.com/63234832/196604636-a4ff551c-c6e1-430d-a01d-2e02546a9f47.gif"/>
