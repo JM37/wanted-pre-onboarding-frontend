@@ -59,3 +59,7 @@ $ npm start
 - 위 순서대로 실행하면 localhost:8000 포트에 서버가 실행됩니다.
 - 서버를 실행하면 db.sqlite 파일이 생성되며 해당 파일을 삭제 시 기존의 데이터는 초기화 됩니다.
 - 그 외 스펙은 배포된 API와 동일합니다.
+
+###데모 영상
+
+<img width="70%" src="https://user-images.githubusercontent.com/63234832/196604636-a4ff551c-c6e1-430d-a01d-2e02546a9f47.gif"/>
